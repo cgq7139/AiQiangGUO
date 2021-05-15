@@ -285,7 +285,6 @@ ui.about.click(function () {
          )
          });
 
-
 function main() {
     if (!judge_tiku_existence()) {//题库不存在则退出
         return;
